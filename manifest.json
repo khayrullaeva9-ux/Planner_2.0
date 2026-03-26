@@ -1,0 +1,25 @@
+{
+  "name": "Travel Planner",
+  "short_name": "Planner",
+  "description": "Планировщик путешествий",
+  "start_url": "/Planner_2.0/",
+  "scope": "/Planner_2.0/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf8f5",
+  "theme_color": "#2c1810",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
